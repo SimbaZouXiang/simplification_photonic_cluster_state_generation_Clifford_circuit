@@ -1,0 +1,2 @@
+# simplification_photonic_cluster_state_generation_Clifford_circuit
+This repository contains the python implementation for simplification photonic cluster state generation Clifford circuit
